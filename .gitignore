@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+VersionningUnityProject/Library/
+
+VersionningUnityProject/UserSettings/
+
+VersionningUnityProject/Temp/
